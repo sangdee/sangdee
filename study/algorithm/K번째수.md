@@ -1,4 +1,4 @@
-## K번째수
+## K번째수(정렬)
 
 ### Reference  
  - 프로그래머스 : https://programmers.co.kr/learn/courses/30/lessons/42748?language=java

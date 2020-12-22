@@ -1,5 +1,6 @@
 [![TIL Badge](http://img.shields.io/badge/-TIL-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/hyunwoongko/hyunwoongko/tree/main/TIL)](https://github.com/hyunwoongko/hyunwoongko/tree/main/TIL) 
 [![CV](https://img.shields.io/badge/CV-green?style=flat-square&logo=Latex&logoColor=white&link=?)](https://github.com/hyunwoongko/hyunwoongko/blob/master/docs/CV.md)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hyunwoongko)](https://facebook.com/hyunwoongko) 
 
 ## 소개
 <img width = "200" src = "https://user-images.githubusercontent.com/40849381/102882825-5ceecd00-4492-11eb-9c47-c9c23098ab8f.jpg">

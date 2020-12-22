@@ -14,14 +14,14 @@
     * Spring boot, Spring Security, Spring Data JPA
     * JPA, Querydsl, Hibernate
     * Gradle, Maven
-    * Thymeleaf, Jsp/servlet
-    * ReactNative
-    * IntelliJ
+    * MariaDB,MySQL
 * Frontend
     * ES6, TypeScript
+    * Thymeleaf, Jsp/servlet
+    * ReactNative
     * Bootstrap
-* DevOps
-    * MariaDB,MySQL
+* Tool
+    * IntelliJ
     * TravisCI
 
 ## 프로젝트 이력

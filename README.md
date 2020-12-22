@@ -36,7 +36,7 @@
 - 역할 : RestAPI 호출 및 연동 , View 구현
 - 관련기술 : TypeScript, React Native, MobX-state-tree, axios, NodeJS, yarn, webpack, MariaDB
 
-### [허브넷](herbnet.kr)
+### [허브넷](https://herbnet.kr)
 - 소개 : 과학기술정보통신부, NIA(한국정보화진흥원)가 추진하는 ‘인공지능 학습용 데이터 구축 사업 (2차)’ 과제로 선정된 ‘동의보감 약초 판별 AI 데이터 및 AR 구축’에 필요한 약초 사진 데이터 수집을 위한 크라우드 소싱 플랫폼
 - 참여기간 : 2020.08 ~ 2020.12
 - 역할 : 기능 개발 및 View 구현

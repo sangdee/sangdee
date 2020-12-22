@@ -1,4 +1,6 @@
 ## 소개
+<img width = "200" src = "https://user-images.githubusercontent.com/40849381/102882825-5ceecd00-4492-11eb-9c47-c9c23098ab8f.jpg">
+
 - 이상지
 - Email : tkdwl06@naver.com
 - Github : https://github.com/sangji11

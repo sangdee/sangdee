@@ -50,7 +50,7 @@
 - 관련기술 : Java8, Spring boot, Spring Security, Spring Data JPA, JPA, Querydsl, Hibernate, Thymeleaf, Maven, MariaDB
 
 ### 한우 발정/승가 및 소화율 탐지 웹
-- 소개 : 한우 농장을 관리해주는 웹 서비스로 CCTV로 농장을 관찰하여 한우에게 특이사항이 있는 경우 결과를 실시간으로 인공지능 구축 해놓은 데이터 분석 서비스에 전달하여 받은 데이터의 결과를 유저에게 전달해주는 웹 서비스
+- 소개 : 한우 농장을 관리해주는 웹 서비스로 CCTV로 농장을 관찰하여 농장에 있는 한우가 특이사항이 있는 경우 결과를 실시간으로 인공지능 데이터 분석 서비스에 전달하여 받은 데이터의 결과를 유저에게 전달해주는 웹 서비스
 - 참여기간 : 2020.10 ~ 2020.12
 - 역할 : 전체 기능 개발 및 전체 View 구현 / 템플릿을 변환하여 6개의 프로젝트 구축
 - 관련기술 : Java8, Spring boot, Spring Security, Spring Data JPA, JPA, Querydsl, Hibernate, Thymeleaf, Maven, MariaDB

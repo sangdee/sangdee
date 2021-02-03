@@ -1,5 +1,5 @@
 ## 소개
-<img width = "200" src = "https://user-images.githubusercontent.com/40849381/102882825-5ceecd00-4492-11eb-9c47-c9c23098ab8f.jpg">
+<img width = "200" src = "https://user-images.githubusercontent.com/40849381/106761529-41bdd280-6678-11eb-946b-0ce3034e3014.jpg">
 
 - 이상지
 - Email : tkdwl06@naver.com

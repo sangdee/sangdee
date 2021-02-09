@@ -9,15 +9,16 @@
 - [유저인사이트](https://userinsight.co.kr/) - 개발팀(인턴) (2020.07.01 - 2020.12.18)
 ## 기술 역량
 * Backend
-    * Java8, NodeJS
+    * Java8
     * Spring boot, Spring Security, Spring Data JPA
     * JPA, Querydsl, Hibernate
+    * Node.js
     * Gradle, Maven
     * MariaDB,MySQL
 * Frontend
     * ES6, TypeScript
-    * Thymeleaf, Jsp/servlet
-    * ReactNative
+    * Thymeleaf, Jquery
+    * ReactNative, Vue.js
     * Bootstrap
 * DevOps
     * Docker
@@ -62,8 +63,8 @@
 ### [소작영](https://github.com/sangji11/So-Jak-Young)
 - 소개 : 전북대학교 소프트웨어 공학과를 위해서 남는 강의실을 작은 영화관으로 활용하기 위한 영화 예매 앱
 - 기간 : 2019.10 ~ 2019.12
-- 역할 : AndroidStudio를 사용하여 앱 제작
-- 관련기술 : Java8, Firebase, AndroidStudio, xml
+- 역할 : 앱 전체 서비스 개발
+- 관련기술 : Java8, Firebase, AndroidStudio, MVVM
 
 ### [TripBot](https://github.com/sangji11/TripBot)
 - 소개 : 테마 추천 및 딥러닝 기반 실시간 여행 정보제공 챗봇 웹서비스

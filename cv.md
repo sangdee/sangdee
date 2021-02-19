@@ -6,7 +6,7 @@
 - Github : https://github.com/sangji11
 ## 경력
 - 전북대학교 - 소프트웨어공학과 (2014.03 ~ 2021.02)
-- [유저인사이트](https://userinsight.co.kr/) - 개발팀(인턴) (2020.07.01 - 2020.12.18)
+- [유저인사이트](https://userinsight.co.kr/) - R&D팀 (2020.07.01 - 2020.12.18)
 ## 기술 역량
 * Backend
     * Java8

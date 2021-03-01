@@ -17,7 +17,7 @@
     * MariaDB,MySQL
 * Frontend
     * ES6, TypeScript
-    * Thymeleaf, Jquery
+    * HTML5, Thymeleaf, Jquery
     * ReactNative, Vue.js
     * Bootstrap
 * DevOps

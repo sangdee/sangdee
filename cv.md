@@ -6,7 +6,8 @@
 - Github : https://github.com/sangji11
 ## 경력
 - 전북대학교 - 소프트웨어공학과 (2014.03 ~ 2021.02)
-- [유저인사이트](https://userinsight.co.kr/) - R&D팀 (2020.07.01 - 2020.12.18)
+- [유저인사이트](https://userinsight.co.kr/) - R&D팀 (2020.07.01 ~ 2020.12.18)
+- [TUNiB](http://tunib.ai/) - 외주개발 (2021.03.14 ~ 2021.04.03)
 ## 기술 역량
 * Backend
     * Java8
@@ -27,6 +28,12 @@
     * TravisCI
 
 ## 프로젝트 이력
+
+### Mintchoco(prototype)
+- 소개 : 논쟁이 자주 일어나는 다양한 주제에 관해 토론하는 유사 밸런스 게임 서비스(글로벌 토론 플랫폼을 위한 프로토타입 개발)
+- 참여기간 : 2021.03.14 ~ 2021.04.03
+- 역할 : 전체 웹 서비스 개발
+- 관련기술 : Stomp, SocketJs, Spring boot, Spring Data JPA, JPA, Thymeleaf, Maven, MariaDB
 
 ### AllinB 관리자 페이지
 - 소개 : 성형&시술 정보 앱을 관리하는 관리자 페이지

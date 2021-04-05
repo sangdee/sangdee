@@ -14,6 +14,7 @@
     * Spring boot, Spring Security, Spring Data JPA
     * JPA, Querydsl, Hibernate
     * Node.js
+    * Stomp, SocketJs
     * Gradle, Maven
     * MariaDB,MySQL
 * Frontend

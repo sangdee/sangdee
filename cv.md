@@ -75,7 +75,7 @@
 - 관련기술 : Java8, Firebase, AndroidStudio, MVVM
 
 ### [TripBot](https://github.com/sangji11/TripBot)
-- 소개 : 테마 추천 및 딥러닝 기반 실시간 여행 정보제공 챗봇 웹서비스
+- 소개 : 테마 추천 및 딥러닝 기반 실시간 여행 정보 제공 챗봇 웹 서비스
 - 기간 : 2020.04 ~ 06
 - 역할 : 웹 서비스 기능 개발
 - 관련기술 : Java8, MySQL, Spring boot, JPA, Hibernate, Jsp/servlet , JQeury, Gradle

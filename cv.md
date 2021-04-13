@@ -70,7 +70,7 @@
 
 ### [springboot-examples](https://github.com/sangdee/springboot-examples)
 - 2021.03
-- 소개 : springboot를 사용하여 웹 사이트를 만들때 게시판같은 기능에 기본적으로 들어가는 crud 기능을 jpa와 querydsl을 사용하여 정리하였습니다.
+- 소개 : springboot를 기반으로 웹 사이트를 구축할 때 게시판 기능에 기본적으로 들어가는 CRUD를 jpa와 querydsl을 사용하여 정리하였습니다.
 
 ### [소작영](https://github.com/sangdee/So-Jak-Young)
 - 2019.10 - 2019.12

@@ -71,7 +71,7 @@
 
 ## ⌨️ Personal Projects
 
-### [springboot-examples](https://github.com/sangdee/springboot-examples)
+### [springboot-crud-examples](https://github.com/sangdee/springboot-crud-examples)
 - 2021.03
 - 소개 : springboot를 기반으로 웹 사이트를 구축할 때 게시판 기능에 기본적으로 들어가는 CRUD를 jpa와 querydsl을 사용하여 정리하였습니다.
 

@@ -68,14 +68,18 @@
 
 ## ⌨️ Personal Projects
 
-### [소작영](https://github.com/sangji11/So-Jak-Young)
+### [springboot-examples](https://github.com/sangdee/springboot-examples)
+- 2021-03
+- 소개 : springboot를 사용하여 웹 사이트를 만들때 게시판같은 기능에 기본적으로 들어가는 crud 기능을 jpa와 querydsl을 사용하여 정리하였습니다.
+
+### [소작영](https://github.com/sangdee/So-Jak-Young)
+- 2019.10 ~ 2019.12
 - 소개 : 전북대학교 소프트웨어 공학과를 위해서 남는 강의실을 작은 영화관으로 활용하기 위한 영화 예매 앱
-- 기간 : 2019.10 ~ 2019.12
 - 역할 : 앱 전체 서비스 개발
 - 관련기술 : Java8, Firebase, AndroidStudio, MVVM
 
-### [TripBot](https://github.com/sangji11/TripBot)
+### [TripBot](https://github.com/sangdee/TripBot)
+- 2020.04 ~ 06
 - 소개 : 테마 추천 및 딥러닝 기반 실시간 여행 정보 제공 챗봇 웹 서비스
-- 기간 : 2020.04 ~ 06
 - 역할 : 웹 서비스 기능 개발
 - 관련기술 : Java8, MySQL, Spring boot, JPA, Hibernate, Jsp/servlet , JQeury, Gradle

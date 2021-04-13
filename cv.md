@@ -1,34 +1,34 @@
-## 소개
+## 🐱 Introduction
 <img width = "200" src = "https://user-images.githubusercontent.com/40849381/106761529-41bdd280-6678-11eb-946b-0ce3034e3014.jpg">
 
 - 이상지
 - Email : tkdwl06@naver.com
 - Github : https://github.com/sangdee
-## 경력
+
+## 🎞 Experience
 - 전북대학교 - 소프트웨어공학과 (2014.03 ~ 2021.02)
 - [유저인사이트](https://userinsight.co.kr/) - R&D팀(인턴) (2020.07.01 ~ 2020.12.18)
-- [TUNiB](http://tunib.ai/) - 외주개발 (2021.03.14 ~ 2021.04.03)
-## 기술 역량
+- [TUNiB](http://tunib.ai/) - 외주개발 (2021.03.14 ~ 2021.04.10)
+
+## ⛏️ Skills
 * Backend
-    * Java8
-    * Spring boot, Spring Security, Spring Data JPA
-    * JPA, Querydsl, Hibernate
-    * Node.js
-    * Stomp, SocketJs
+    * Java
+    * Spring boot, Spring Data JPA
+    * JPA, Querydsl
     * Gradle, Maven
-    * MariaDB,MySQL
-* Frontend
-    * ES6, TypeScript
-    * HTML5, Thymeleaf, Jquery
-    * ReactNative, Vue.js
-    * Bootstrap
+    * IntelliJ
+    * Git
 * DevOps
     * Docker
-* Tool
-    * IntelliJ
-    * TravisCI
+    * MariaDB, MySQL
+* Frontend
+    * HTML5, CSS3, JS(ES6)
+    * Thymeleaf, Jquery
+    * Vue.js
+    * Bootstrap
 
-## 프로젝트 이력
+
+## 💻 Projects
 
 ### Mintchoco(prototype)
 - 소개 : 논쟁이 자주 일어나는 다양한 주제에 관해 토론하는 유사 밸런스 게임 서비스(글로벌 토론 플랫폼을 위한 프로토타입 개발)
@@ -66,7 +66,7 @@
 - 역할 : 전체 기능 개발 및 전체 View 구현 / 템플릿을 변환하여 6개의 프로젝트 구축
 - 관련기술 : Java8, Spring boot, Spring Security, Spring Data JPA, JPA, Querydsl, Hibernate, Thymeleaf, Maven, MariaDB
 
-## 개인 프로젝트
+## ⌨️ Personal Projects
 
 ### [소작영](https://github.com/sangji11/So-Jak-Young)
 - 소개 : 전북대학교 소프트웨어 공학과를 위해서 남는 강의실을 작은 영화관으로 활용하기 위한 영화 예매 앱

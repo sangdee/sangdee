@@ -35,7 +35,7 @@
 
 ### Mintchoco(prototype)
 - 소개 : 논쟁이 자주 일어나는 다양한 주제에 관해 토론하는 유사 밸런스 게임 서비스(글로벌 토론 플랫폼을 위한 프로토타입 개발)
-- 참여기간 : 2021.03.14 - 2021.04.03
+- 참여기간 : 2021.03.14 - 2021.04.10
 - 역할 : 전체 웹 서비스 개발
 - 관련기술 : Stomp, SocketJs, Spring boot, Spring Data JPA, JPA, Thymeleaf, Maven, MariaDB
 

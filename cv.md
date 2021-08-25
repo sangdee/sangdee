@@ -72,6 +72,10 @@
 
 ## ⌨️ Personal Projects
 
+### [kss-java](https://github.com/sangdee/kss-java)
+- 2021.08
+- 소개 : 한국어 문장 분리기 오픈소스 라이브러리
+- 관련기술 : Java, Maven, Gradle
 ### [springboot-crud-examples](https://github.com/sangdee/springboot-crud-examples)
 - 2021.03
 - 소개 : springboot를 기반으로 웹 사이트를 구축할 때 게시판 기능에 기본적으로 들어가는 CRUD를 jpa와 querydsl을 사용하여 정리하였습니다.

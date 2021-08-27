@@ -25,7 +25,7 @@
 * DevOps
     * Docker
     * MariaDB, MySQL
-    * Aws
+    * Aws(EC2, RDS, S3)
 * Frontend
     * HTML5, CSS3, JS(ES6)
     * Thymeleaf, Jquery

@@ -26,6 +26,7 @@
     * Docker
     * MariaDB, MySQL
     * Aws(EC2, RDS, S3)
+    * Nginx, jenkins
 * Frontend
     * HTML5, CSS3, JS(ES6)
     * Thymeleaf, Jquery

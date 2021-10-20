@@ -1,4 +1,4 @@
-## 🐱 Introduction
+## Introduction
 
 <img width = "200" src = "https://user-images.githubusercontent.com/40849381/106761529-41bdd280-6678-11eb-946b-0ce3034e3014.jpg">
 

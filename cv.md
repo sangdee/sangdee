@@ -2,9 +2,6 @@
 
 <img width = "200" src = "https://user-images.githubusercontent.com/40849381/106761529-41bdd280-6678-11eb-946b-0ce3034e3014.jpg">
 
-- 안녕하세요! 저는 멋진 서비스 개발자가 되고 싶은 이상지 입니다.
-- 저는 개발을 좋아하고, 높은 러닝 커브를 경험하는 것을 즐기며 제 스스로의 역량을 평가하고 도전하고 있습니다.
-- 소프트웨어 개발을 통해 사람과 사람 간의 커뮤니케이션을 증대 시키고, 많은 사용자들이 이용하는 멋진 서비스를 개발해보고 싶은 꿈을 가지고 있습니다. 
 - Email : tkdwl06@naver.com
 - Github : https://github.com/sangdee
 

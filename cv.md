@@ -44,7 +44,7 @@
 ### EstateCloud (2021.07.01 ~ )
 
 #### AWS 서버 이전
-- 소개 : 서버 불안정 (스펙 업데이트 필요) cafe24 server -> AWS server
+- 소개 : 스펙 업데이트 필요로 인한 서버 이전(cafe24 server -> AWS server)
 - 역할 : EC2 생성, EC2 배포하는 과정 jenkins 셋팅, aws RDS로 데이터 마이그레이션, https ssl 인증 적용(Route53),  로드밸런서 적용, 보안그룹 설정, S3 셋팅
 - 관련기술 : AWS
 

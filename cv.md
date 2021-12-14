@@ -27,7 +27,6 @@
 * Frontend
     * HTML5, CSS3, JS(ES6)
     * Thymeleaf, Jquery
-    * Vue.js
     * Bootstrap
 * Development language
     * Java

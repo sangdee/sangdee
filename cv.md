@@ -19,10 +19,10 @@
 * DevOps
     * MariaDB, MySQL
     * Aws(EC2, RDS, S3, Route53)
-    * Redis
     * Nginx
     * Jenkins
     * Docker
+    * Redis
     * Git
 * Frontend
     * HTML5, CSS3, JS(ES6)
@@ -35,7 +35,8 @@
     * Python
 * Tool
     * IntelliJ
-    * Github, Jira, Bitbucket
+    * Github, Jira, Bitbucket, Soucetree
+    * Datagrip, Mysql Workbench
     * Notion
 
 
@@ -63,8 +64,8 @@
 - 역할 : 매물, 지도 관련 api 개발
 - 관련기술 :  Java11, Spring boot, Spring Security, JPA, Querydsl, AWS(EC2,RDS,S3)
 
+<br/><br/>
 
-- 역할 : 기능 개발 및 View 구현
 ### TUNiB (2021.03.14 - 2021.04.10)
 
 #### Mintchoco(prototype)

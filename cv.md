@@ -45,12 +45,12 @@
 
 #### AWS 서버 이전
 - 소개 : 스펙 업데이트 필요로 인한 서버 이전(cafe24 server -> AWS server)
-- 역할 : EC2 생성, EC2 배포하는 과정 jenkins 셋팅, aws RDS로 데이터 마이그레이션, https ssl 인증 적용(Route53),  로드밸런서 적용, 보안그룹 설정, S3 셋팅
+- 역할 : AWS 서버 셋팅
 - 관련기술 : AWS
 
 #### 자동화 서비스
-- 소개 : 등기부등본 자동 결제 및 자동 발급 후 AWS서버 업로드 모듈 / 부동산써브(네이버) 자동 광고 업로드 모듈
-- 역할 : 자동화 기능 개발, window서버 셋팅
+- 소개 : 등기부등본 자동 결제 및 자동 발급 후 AWS 서버 업로드 모듈 / 부동산써브(네이버) 자동 광고 업로드 모듈
+- 역할 : 자동화 기능 개발
 - 괌렴기술 : Java11, Selenium, Autohotkey, cafe24(window), AWS(EC2,RDS,S3), Spring boot, Spring Security, Jenkins
 
 #### 관리자 페이지

@@ -22,7 +22,6 @@
     * Nginx
     * Jenkins
     * Docker
-    * Redis
     * Git
 * Frontend
     * HTML5, CSS3, JS(ES6)

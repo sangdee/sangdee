@@ -50,7 +50,7 @@
 #### 자동화 서비스
 - 소개 : 등기부등본 자동 결제 및 자동 발급 후 AWS 서버 업로드 모듈 / 부동산써브(네이버) 자동 광고 업로드 모듈
 - 역할 : 자동화 기능 개발
-- 괌렴기술 : Java11, Selenium, Autohotkey, cafe24(window), AWS(EC2,RDS,S3), Spring boot, Spring Security, Jenkins
+- 기술 : Java11, Selenium, Autohotkey, cafe24(window), AWS(EC2,RDS,S3), Spring boot, Spring Security, Jenkins
 
 #### 관리자 페이지
 - 소개 : 사내 서비스를 관리하는 관리자 페이지

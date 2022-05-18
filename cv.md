@@ -16,13 +16,15 @@
     * Spring(Spring Boot, Spring Data JPA, Spring Security)
     * JPA, Querydsl
     * Gradle, Maven
-* DevOps
     * MariaDB, MySQL
-    * Aws(EC2, RDS, S3, Route53)
+    * Redis
+* DevOps
+    * Aws(EC2, RDS, S3, Route53, ECR)
     * Nginx
     * Jenkins
     * Docker
     * Git
+    * Ubuntu, Amazon Linux
 * Frontend
     * HTML5, CSS3, JS(ES6)
     * Thymeleaf, Jquery
@@ -31,12 +33,6 @@
     * Java
     * JavaScript
     * Python
-* Tool
-    * IntelliJ
-    * Github, Jira, Bitbucket, Soucetree
-    * Datagrip, Mysql Workbench
-    * Notion
-
 
 ## 💻 Projects
 
@@ -50,7 +46,7 @@
 #### 자동화 서비스
 - 소개 : 등기부등본 자동 결제 및 자동 발급 후 AWS 서버 업로드 모듈 / 부동산써브(네이버) 자동 광고 업로드 모듈
 - 역할 : 자동화 기능 개발
-- 기술 : Java11, Selenium, Autohotkey, cafe24(window), AWS(EC2,RDS,S3), Spring boot, Spring Security, Jenkins
+- 기술 : Java11, Selenium, Jsoup, Autohotkey, cafe24(window), AWS(EC2,RDS,S3), Spring boot, Spring Security, Jenkins
 
 #### 관리자 페이지
 - 소개 : 사내 서비스를 관리하는 관리자 페이지

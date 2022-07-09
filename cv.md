@@ -13,7 +13,7 @@
 
 ## ⛏️ Skills
 * Backend
-    * Spring(Spring Boot, Spring Data JPA, Spring Security)
+    * Spring(Spring Boot, Spring Data JPA, Spring Security, Spring batch)
     * JPA, Querydsl
     * Gradle, Maven
     * MariaDB, MySQL
@@ -37,26 +37,34 @@
 ## 💻 Projects
 
 ### EstateCloud (2021.07.01 ~ )
-
+ - 기술셋 : Java17, SpringBoot, Aws(ec2,rds,s3,ecr), Jenkins, Docker, Nginx, Mysql, window(cafe24) 
+ 
 #### AWS 서버 이전
-- 소개 : 스펙 업데이트 필요로 인한 서버 이전(cafe24 server -> AWS server)
-- 역할 : AWS 서버 셋팅
-- 관련기술 : AWS
+- 소개 : 스펙 업데이트로 인한 서버 이전(cafe24 server -> AWS server)
+- 역할 : AWS Ec2(Amazon linux2)서버 셋팅 및 배포 자동화 셋팅
+- 관련기술 : AWS, Docker, Jenkins, Nginx, certbot
 
-#### 자동화 서비스
-- 소개 : 등기부등본 자동 결제 및 자동 발급 후 AWS 서버 업로드 모듈 / 부동산써브(네이버) 자동 광고 업로드 모듈
+#### 등기부 등본 자동 결제 서비스
+- 소개 : 사내 매물에 대한 등기부등본 자동 결제 및 업로드 모듈     
 - 역할 : 자동화 기능 개발
-- 기술 : Java11, Selenium, Jsoup, Autohotkey, cafe24(window), AWS(EC2,RDS,S3), Spring boot, Spring Security, Jenkins
+- 키워드 : Window 서버(cafe24), Autohotkey, Selenium, Spring boot
 
-#### 관리자 페이지
-- 소개 : 사내 서비스를 관리하는 관리자 페이지
-- 역할 : 기능 개발, View 구현, 배포 관리, 데이터 스크랩
-- 관련기술 : Java11, Spring boot, Spring Security, Spring Batch, JPA, Querydsl, AWS(EC2,RDS,S3), Maven, Thymeleaf, Jenkins
+#### 부동산써브(네이버) 부동산 매물 자동 광고 업로드 모듈
+- 소개 : 사내 보유 부동산 매물의 정보를 바탕으로 자동으로 네이버 부동산에 광고해주는 서비스 모듈
+- 역할 : 자동화 광고 시스템 설계 및 구현
+- 기술 : Jsoup, Spring boot
 
 #### 아파트는 우대빵
-- 소개 : 부동산 중개 서비스 앱
-- 역할 : 매물, 지도 관련 api 개발
-- 관련기술 :  Java11, Spring boot, Spring Security, JPA, Querydsl, AWS(EC2,RDS,S3)
+- 소개 : 국내 최대 아파트 매물 보유 부동산 중개 서비스 앱
+- 역할 : 매물소개 및 지도 관련 api 개발
+- 관련기술 : Querydsl, JPA, MySql, Spring boot, AWS(EC2,RDS,S3)
+- 
+#### 관리자 페이지
+- 소개 : 사내 서비스를 관리하는 관리자 페이지
+- 역할 : 매물 확보 통계 기능 구현, 매물 리스트 다수의 기능 수정 및 버그 픽스, 권한 관리, 정산서비스 관리, 데이터 스크랩 등등 다양한 기능 구현
+- 관련기술 : Spring boot, Spring Security, Spring Batch, JPA, Querydsl, AWS(EC2,RDS,S3,Ecr), Gradle, Thymeleaf, Jenkins
+
+
 
 <br/><br/>
 

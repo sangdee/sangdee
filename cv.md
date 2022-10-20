@@ -1,6 +1,6 @@
-## Introduction
+<!--## Introduction-->
 
-<img width = "200" src = "https://user-images.githubusercontent.com/40849381/106761529-41bdd280-6678-11eb-946b-0ce3034e3014.jpg">
+<!--<img width = "200" src = "https://user-images.githubusercontent.com/40849381/106761529-41bdd280-6678-11eb-946b-0ce3034e3014.jpg">-->
 
 - Email : tkdwl06@naver.com, tkdwl06@gmail.com
 - Github : https://github.com/sangdee
@@ -31,10 +31,11 @@
     * Bootstrap
 * Development language
     * Java
+    * Kotlin
     * JavaScript
     * Python
 
-## 💻 Projects
+<!--## 💻 Projects
 
 ### EstateCloud (2021.07.01 ~ )
  - 기술셋 : Java17, SpringBoot, Aws(ec2,rds,s3,ecr), Jenkins, Docker, Nginx, Mysql, window(cafe24) 
@@ -110,4 +111,4 @@
 ### [kss-java](https://github.com/sangdee/kss-java)
 - 2021.08
 - 소개 : 한국어 문장 분리기 오픈소스 라이브러리
-- 관련기술 : Java, Maven, Gradle
+- 관련기술 : Java, Maven, Gradle -->

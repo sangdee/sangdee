@@ -2,8 +2,8 @@
 
 <!--<img width = "200" src = "https://user-images.githubusercontent.com/40849381/106761529-41bdd280-6678-11eb-946b-0ce3034e3014.jpg">-->
 
-- Email : tkdwl06@naver.com, tkdwl06@gmail.com
-- Github : https://github.com/sangdee
+<!--- Email : tkdwl06@naver.com, tkdwl06@gmail.com
+- Github : https://github.com/sangdee-->
 
 ## 🎞 Experience
 - Chonbuk University - Software Engineering (2014.03 - 2021.02)

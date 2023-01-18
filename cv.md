@@ -9,19 +9,20 @@
 - Chonbuk University - Software Engineering (2014.03 - 2021.02)
 - [UserInsight](https://userinsight.co.kr/) - R&D Team(Intern) (2020.07.01 - 2020.12.18)
 - [TUNiB](http://tunib.ai/) - outsourcing (2021.03.14 - 2021.04.10)
-- EstateCloud - Server Developer (2021.07.01 ~ )
+- [EstateCloud](https://woodaebbang.com/) - Server Developer (2021.07.01 ~ )
 
 ## ⛏️ Skills
 * Backend
-    * Spring(Spring Boot, Spring Data JPA, Spring Security, Spring batch)
+    * Spring(Spring Boot, Spring Data JPA, Spring Security, Spring Batch)
     * JPA, Querydsl
     * Gradle, Maven
     * MariaDB, MySQL
     * Redis
 * DevOps
-    * Aws(EC2, RDS, S3, Route53, ECR)
+    * Aws(EC2, RDS, S3, Route53, ECR, ECS)
     * Nginx
     * Jenkins
+    * Grafana, Prometheus
     * Docker
     * Git
     * Ubuntu, Amazon Linux

@@ -6,7 +6,7 @@
 - Github : https://github.com/sangdee-->
 
 ## 🎞 Experience
-- Chonbuk University - Software Engineering (2014.03 - 2021.02)
+- [Chonbuk University](https://software.jbnu.ac.kr/software/index.do) - Software Engineering (2014.03 - 2021.02)
 - [UserInsight](https://userinsight.co.kr/) - R&D Team(Intern) (2020.07.01 - 2020.12.18)
 - [TUNiB](http://tunib.ai/) - outsourcing (2021.03.14 - 2021.04.10)
 - [EstateCloud](https://woodaebbang.com/) - Server Developer (2021.07.01 ~ )
